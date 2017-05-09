@@ -5,7 +5,6 @@
 */
 
 var request = require('request');
-
 var apiDetails = require('./api-details.js');
 
 /*
